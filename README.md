@@ -1,7 +1,7 @@
 # riskiyans
 
-Jangan di recode bangke :v
-Dan
+# TOOLS SIMPLE
+
 Jangan lupa subscribe lahh:v
 
 $pkg install python2
